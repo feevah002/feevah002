@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feevah002
-- 👀 I’m interested in wb-developmen, really into creting things in general
+- 👀 I’m interested in web-development, really into creting things in general
 - 🌱 I’m currently learning frontend/bckend(web development)
 - 💞️ I’m Still Learning 
 
