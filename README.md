@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feevah002 - Emmanuel
-- 👀 I’m interested in web-development, really into creting things in general
+- 👀 I’m interested in web-development, really into creating things in general
 - 🌱 I’m currently learning frontend/bckend(web development)
 - 💞️ I learn everyday I live
 <!---
